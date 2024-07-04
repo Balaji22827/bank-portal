@@ -65,7 +65,7 @@
 								<TD height="117"></TD>
 								<!-- flm:cell -->
 								<TD valign="top">
-									<FORM action="ListAccounts" method ="post">Please enter your Customer ID:<BR>
+									<FORM action="ListAccounts" method ="post">Please enter your Customer Account No:<BR>
 									<INPUT type="text" name="customerNumber" size="20">
 									<BR>
 									<BR>
