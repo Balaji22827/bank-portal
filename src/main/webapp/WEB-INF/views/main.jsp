@@ -40,7 +40,7 @@
                <tr>
                   <td width="150"><img border="0" width="110" height="50" alt="Company's LOGO" src="${pageContext.request.contextPath}/resources/images/bank-logo.png"></td>
             
-                  <td><H4>CI/CD Pipeline with Jenkins - <Font color="orange">Banking Demo on LinuxONE</Font></H4></td>
+                  <td><H4>DSS CI/CD Pipeline with Jenkins <Font color="orange">Demo on LinuxONE</Font></H4></td>
                </tr>
             </tbody>
          </table>
@@ -65,7 +65,7 @@
 								<TD height="117"></TD>
 								<!-- flm:cell -->
 								<TD valign="top">
-									<FORM action="ListAccounts" method ="post">Please enter your Customer Account No:<BR>
+									<FORM action="ListAccounts" method ="post">Customer Account No:<BR>
 									<INPUT type="text" name="customerNumber" size="20">
 									<BR>
 									<BR>
